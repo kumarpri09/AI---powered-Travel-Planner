@@ -1,0 +1,7 @@
+{
+  "name": "OmniVoyage - Multi-Modal Travel & Real-Time Transit Planner",
+  "description": "Smart multi-modal travel planner comparing bikes, metro, buses, trains, and budget flights with live turn-by-turn navigation, budget-friendly hotels, and local dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
